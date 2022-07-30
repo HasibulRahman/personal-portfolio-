@@ -31,7 +31,7 @@ h2 {
 
 .hire-me {
     text-decoration: none;
-    background-image: linear-gradient(tomato, pink);
+    background-image: linear-gradient(tomato, rgb(237, 27, 174));
     color: white;
     font-weight: 700;
     padding: 10px 40px;
